@@ -1,0 +1,11 @@
+.navbar {
+  margin-bottom: 20px; /* Adds space below the navbar */
+}
+
+.nav-link {
+  margin-right: 15px; /* Adds space between links */
+}
+
+.navbar-brand {
+  font-weight: bold; /* Makes the brand name bold */
+}
